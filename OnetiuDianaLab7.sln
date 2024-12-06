@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetiuDianaLab7", "OnetiuDianaLab7.csproj", "{F17929F0-3CCA-417A-8AD9-CC9B95A21459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17929F0-3CCA-417A-8AD9-CC9B95A21459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17929F0-3CCA-417A-8AD9-CC9B95A21459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17929F0-3CCA-417A-8AD9-CC9B95A21459}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F17929F0-3CCA-417A-8AD9-CC9B95A21459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17929F0-3CCA-417A-8AD9-CC9B95A21459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17929F0-3CCA-417A-8AD9-CC9B95A21459}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC9EF9EC-878D-4665-BF29-9EB761BA82DB}
+	EndGlobalSection
+EndGlobal
